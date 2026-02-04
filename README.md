@@ -36,6 +36,20 @@ rebranded as an original end-to-end AEC system.
 
 💬 **Join the discussion:** 🗣 Share feedback & improvements on metrics & performance plots → [Click here](https://github.com/isinmelih/aec-pbfdaf-baseline/discussions/2)
 
+## ⬇️ Download Latest Release
+
+The latest precompiled binaries for **aec-pbfdaf-baseline** are available on GitHub Releases.  
+
+**Download and run the ZIP package:**  
+[Latest Release v0.1](https://github.com/isinmelih/aec-pbfdaf-baseline/releases/tag/v0.1)
+
+> The ZIP contains:
+> - `wasapi_aec.exe` (core engine)
+> - `control_panel.exe` (GUI launcher)
+> - `README.md` with usage instructions
+> - Example metrics / performance plots (if included)
+
+
 ### Citation (suggested)
 
 isinmelih. *AEC PBFDAF Baseline: Research-oriented implementation of
