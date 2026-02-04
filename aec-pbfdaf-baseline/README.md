@@ -34,6 +34,8 @@ please **cite or clearly acknowledge** this repository.
 This repository is intended to be referenced as a **baseline**, not
 rebranded as an original end-to-end AEC system.
 
+💬 **Join the discussion:** 🗣 Share feedback & improvements on metrics & performance plots → [Click here](https://github.com/isinmelih/aec-pbfdaf-baseline/discussions/2)
+
 ### Citation (suggested)
 
 isinmelih. *AEC PBFDAF Baseline: Research-oriented implementation of
@@ -48,3 +50,4 @@ cancellation*. GitHub repository, 2026.
 
 While the Apache 2.0 license permits reuse, **ethical academic practice**
 requires transparent attribution.
+
